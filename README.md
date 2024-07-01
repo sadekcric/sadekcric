@@ -17,7 +17,7 @@
   MY STATS
 </h2>
   <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadekcric&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1010&card_height=350&background=071942&ring=3FCFFF&stroke=3FCFFF&currStreakNum=3FCFFF&sideLabels=3FCFFF&border=3FCFFF&fire=3FCFFF&sideNums=3FCFFF&currStreakLabel=3FCFFF&dates=3FCFFF&excludeDaysLabel=3FCFFF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadekcric&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1011&card_height=300&background=071942&ring=3FCFFF&stroke=3FCFFF&currStreakNum=3FCFFF&sideLabels=3FCFFF&border=3FCFFF&fire=3FCFFF&sideNums=3FCFFF&currStreakLabel=3FCFFF&dates=3FCFFF&excludeDaysLabel=3FCFFF" alt="GitHub Streak" /></a>
   </div>
 </div>
 
