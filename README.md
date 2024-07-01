@@ -12,7 +12,14 @@
   </p>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sadekcric&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div >
+   <h2 align="center">
+  My Stats
+</h2>
+  <div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadekcric&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=250" alt="GitHub Streak" /></a>
+  </div>
+</div>
 
 <div>
    <h2 align="center">
