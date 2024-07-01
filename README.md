@@ -13,6 +13,9 @@
 </div>
 
 <div>
+   <h2 align="center">
+  My Skills
+</h2>
   <img src="https://i.ibb.co/bsM6yXp/Screenshot-2024-07-02-005539.png"/>
 </div>
 
