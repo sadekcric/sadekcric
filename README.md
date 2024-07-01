@@ -3,7 +3,7 @@
 </div>
 
 <center>
-  # Sadekur Rahman
+  Sadekur Rahman
 </center>
 
  
