@@ -20,10 +20,10 @@
    
 </h2>
 
-<p>
-  [<img   src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
-[<img  src="https://i.ibb.co/sQ2H3Cv/facebook.png">](https://www.facebook.com/sadekur.rahman.73744/)
-</p>
+
+  [<img  height="75"  src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
+[<img height="70" src="https://i.ibb.co/sQ2H3Cv/facebook.png">](https://www.facebook.com/sadekur.rahman.73744/)
+
 
 
   
