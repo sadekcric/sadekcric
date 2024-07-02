@@ -14,6 +14,13 @@
   </p>
 </div>
 
+<div>
+  <h2 align="center">
+  SOCIAL MEDIA
+</h2>
+  [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+</div>
+
 <div >
    <h2 align="center">
   MY STATS
