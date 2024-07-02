@@ -23,15 +23,6 @@
   </div>
 </div>
 
-<div>
-  <button>Facebook</button>
-</div>
-<style>
-  button{
-    padding:10px 30px;
-    border: 8px solid red
-  }
-</style>
 
 <div>
    <h2 align="center">
