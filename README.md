@@ -14,20 +14,7 @@
   </p>
 </div>
 
-<div align="center">
-  <h2 align="center">
-  SOCIAL MEDIA
-   
-</h2>
 
-
-  [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
-[<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/sadekur.rahman.73744/)
-
-
-
-  
-</div>
 
 <div >
    <h2 align="center">
@@ -36,6 +23,15 @@
   <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadekcric&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=250&background=071942&ring=3FCFFF&stroke=3FCFFF&currStreakNum=3FCFFF&sideLabels=3FCFFF&border=3FCFFF&fire=3FCFFF&sideNums=3FCFFF&currStreakLabel=3FCFFF&dates=3FCFFF&excludeDaysLabel=3FCFFF" alt="GitHub Streak" /></a>
   </div>
+</div>
+
+<div align="center">
+  <h2 align="center">
+  SOCIAL MEDIA
+</h2>
+  
+  [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
+[<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/sadekur.rahman.73744/)
 </div>
 
 
