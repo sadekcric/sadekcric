@@ -1,3 +1,10 @@
+<style>
+  button{
+    padding:10px 30px;
+    border: 8px solid red
+  }
+</style>
+
 <div>
   <img src="https://i.ibb.co/yd7dM8W/Screenshot-2024-07-01-235504.png"/>
 </div>
@@ -21,9 +28,9 @@
   </div>
 </div>
 
-
-  <a href="https://example.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Facebook</a>
-
+<div>
+  <button>Facebook</button>
+</div>
 
 <div>
    <h2 align="center">
