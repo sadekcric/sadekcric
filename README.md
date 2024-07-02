@@ -1,9 +1,4 @@
-<style>
-  button{
-    padding:10px 30px;
-    border: 8px solid red
-  }
-</style>
+
 
 <div>
   <img src="https://i.ibb.co/yd7dM8W/Screenshot-2024-07-01-235504.png"/>
@@ -31,6 +26,12 @@
 <div>
   <button>Facebook</button>
 </div>
+<style>
+  button{
+    padding:10px 30px;
+    border: 8px solid red
+  }
+</style>
 
 <div>
    <h2 align="center">
