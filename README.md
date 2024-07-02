@@ -20,8 +20,8 @@
    
 </h2>
 <p align="center">
-  [<a hraf="https://www.facebook.com/sadekur.rahman.73744/">
-    <img src="https://i.ibb.co/BNb27x7/linkedin.png"/>
+  [<a>
+    [<img src="https://i.ibb.co/BNb27x7/linkedin.png"/>]("https://www.facebook.com/sadekur.rahman.73744/")
   </a>]
 </p>
   
