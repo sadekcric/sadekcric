@@ -20,7 +20,7 @@
    
 </h2>
 
-[<img height="75" src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
+[<img width="300" src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
   
 </div>
 
