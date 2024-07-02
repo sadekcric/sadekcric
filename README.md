@@ -21,8 +21,8 @@
 </h2>
 
 
-  [<img  height="75"  src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
-[<img height="70" src="https://i.ibb.co/sQ2H3Cv/facebook.png">](https://www.facebook.com/sadekur.rahman.73744/)
+  [<img  widht="200"  src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
+[<img width="150" src="https://i.ibb.co/sQ2H3Cv/facebook.png">](https://www.facebook.com/sadekur.rahman.73744/)
 
 
 
