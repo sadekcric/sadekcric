@@ -19,8 +19,8 @@
   SOCIAL MEDIA
    
 </h2>
-<p align="center"> [<img height="75" src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
-</p>
+
+[<img height="75" src="https://i.ibb.co/BNb27x7/linkedin.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
   
 </div>
 
