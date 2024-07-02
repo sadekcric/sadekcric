@@ -21,9 +21,9 @@
   </div>
 </div>
 
-<div>
+
   <a href="https://example.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: blue; text-align: center; text-decoration: none; border-radius: 5px;">Facebook</a>
-</div>
+
 
 <div>
    <h2 align="center">
