@@ -14,7 +14,7 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <h2 align="center">
   SOCIAL MEDIA
    
@@ -34,7 +34,7 @@
 </div>
 
 
-<div>
+<div >
    <h2 align="center">
   MY SKILLS
 </h2>
