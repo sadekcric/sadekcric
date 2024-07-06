@@ -25,7 +25,14 @@
   </div>
 </div>
 
-
+<div align="center">
+  <h2 align="center">
+  SOCIAL MEDIA
+</h2>
+  
+  [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](https://www.linkedin.com/in/md-sadekur-rahman/)
+[<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/sadekur.rahman.73744/)
+</div>
 
 
 <div >
