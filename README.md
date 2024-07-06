@@ -40,7 +40,7 @@
   MY SKILLS
 </h2>
   <div>
-    <img src="https://i.ibb.co/bsM6yXp/Screenshot-2024-07-02-005539.png"/>
+    <img src="https://i.ibb.co/vcd8ryr/Screenshot-2024-07-05-231209.png"/>
   </div>
 </div>
 
